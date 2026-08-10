@@ -1,4 +1,4 @@
-# Home Assistant Community App: Tailscale
+# Home Assistant Community App: Tailscale (Cjersey Fork)
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
