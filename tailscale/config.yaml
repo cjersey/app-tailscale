@@ -1,6 +1,7 @@
 ---
 name: Tailscale
-version: "0.28.2"
+# Using the tailscale client version as the HA App version.
+version: "1.102.2"
 slug: tailscale
 description: Zero config VPN for building secure networks (Cjersey Fork)
 url: https://github.com/hassio-addons/app-tailscale
